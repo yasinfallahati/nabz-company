@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {"id":"t1","title":"ریل Dragon Quest / یوجی هوری","owner":"video","project":"reels","status":"approval"},
+    {"id":"t2","title":"ریل Kayak with Friends","owner":"video","project":"reels","status":"approval"},
+    {"id":"t3","title":"ریل معرفی ۳ بازی کوآپ","owner":"video","project":"reels","status":"approval"},
+    {"id":"t4","title":"ادیت تستی ماشین ۱ (سینمایی)","owner":"video","project":"car","status":"approval"},
+    {"id":"t5","title":"ادیت تستی ماشین ۲ (با صدای فروشنده)","owner":"video","project":"car","status":"approval"},
+    {"id":"t6","title":"ادیت تستی ماشین ۳ (فان با زیرنویس)","owner":"video","project":"car","status":"approval"},
+    {"id":"t7","title":"ادیت تستی ماشین ۴ (پریمیوم با پرامپت)","owner":"video","project":"car","status":"approval"},
+    {"id":"t8","title":"ریل Manus (۱۰۰۰ کردیت رایگان)","owner":"video","project":"promo","status":"approval"},
+    {"id":"t9","title":"ویدیوی معرفی Gymzo","owner":"video","project":"promo","status":"approval"},
+    {"id":"t10","title":"آپدیت شبانه سایت ۲۲:۰۰ (روزانه)","owner":"ceo-bot","project":"nightly","status":"done","recurring":"daily"},
+    {"id":"t11","title":"ساخت داشبورد شرکت مجازی","owner":"ceo-bot","project":"reels","status":"done"}
+  ],
+  "activity": [
+    {"date":"2026-10-16","who":"ceo-bot","text":"داشبورد شرکت مجازی راه‌اندازی شد."},
+    {"date":"2026-10-16","who":"video","text":"ادیت پریمیوم ماشین (نسخه ۴) برای تأیید فرستاده شد."},
+    {"date":"2026-10-15","who":"ceo-bot","text":"آپدیت شبانه انجام شد: ۲۷ خبر روی سایت و ۸ پست در کانال تلگرام."},
+    {"date":"2026-10-15","who":"video","text":"ریل ۳ بازی کوآپ برای تأیید فرستاده شد."},
+    {"date":"2026-10-15","who":"video","text":"ریل Dragon Quest برای تأیید فرستاده شد."}
+  ]
+}
